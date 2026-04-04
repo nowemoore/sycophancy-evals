@@ -1,0 +1,7 @@
+.env
+node_modules
+data/subsets
+tests
+inspect_env
+logs
+
