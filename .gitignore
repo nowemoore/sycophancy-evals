@@ -4,4 +4,6 @@ data/subsets
 tests
 inspect_env
 logs
+latex/*
+!latex/main.pdf
 

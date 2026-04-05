@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.11.25)  3 APR 2026 01:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.11.25)  4 APR 2026 14:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/nikol/OneDrive/Desktop/code/sycophancy-evals/write-up/main.tex
-(c:/Users/nikol/OneDrive/Desktop/code/sycophancy-evals/write-up/main.tex
+**c:/Users/nikol/OneDrive/Desktop/code/sycophancy-evals/latex/main.tex
+(c:/Users/nikol/OneDrive/Desktop/code/sycophancy-evals/latex/main.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Users\nikol\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -1025,16 +1025,16 @@ Package rerunfilecheck Info: File `main.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  42375 strings out of 474486
- 980091 string characters out of 5743754
+ 980061 string characters out of 5743754
  1934542 words of memory out of 5000000
  63979 multiletter control sequences out of 15000+600000
  562632 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,5n,87p,1072b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,5n,87p,1069b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\nikol\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi720\cmbcsc10.pk> <C:\Users\nikol\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi657\cmbcsc10.pk> <C:\Users\nikol\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi864\cmbcsc10.pk><C:/Users/nikol/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/nikol/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/nikol/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/nikol/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (3 pages, 105250 bytes).
+Output written on main.pdf (3 pages, 103742 bytes).
 PDF statistics:
- 141 PDF objects out of 1000 (max. 8388607)
+ 136 PDF objects out of 1000 (max. 8388607)
  13 named destinations out of 1000 (max. 500000)
  109 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1775168039.35441 "main.aux" "main.bbl" "main" 1775175020.44345 0
+["bibtex main"] 1775168039.35441 "main.aux" "main.bbl" "main" 1775308675.23296 0
   "./lib.bib" 1775075466 4393 281b73252d0db92f5914c9686d9a438e ""
   "C:/Users/nikol/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "main.aux" 1775175019 789 ff9a5b2f30da1baa351e5131bcf4fdac "pdflatex"
+  "main.aux" 1775308674 789 ff9a5b2f30da1baa351e5131bcf4fdac "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1775175018.79947 "c:/Users/nikol/OneDrive/Desktop/code/sycophancy-evals/write-up/main.tex" "main.pdf" "main" 1775175020.44392 0
+["pdflatex"] 1775308670.7917 "c:/Users/nikol/OneDrive/Desktop/code/sycophancy-evals/latex/main.tex" "main.pdf" "main" 1775308675.23355 0
   "C:/Users/nikol/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1772013526 124457 2d12b69afcb98605faebf646ef44a554 ""
   "C:/Users/nikol/AppData/Local/MiKTeX/fonts/pk/ljfour/public/cm/dpi657/cmbcsc10.pk" 1764088247 12368 6422f637cc4e9b8246ef463cd7f06d7f ""
   "C:/Users/nikol/AppData/Local/MiKTeX/fonts/pk/ljfour/public/cm/dpi720/cmbcsc10.pk" 1764088245 14116 fef9ee0523a079ce61ef84d362ce43f6 ""
@@ -250,11 +250,11 @@
   "C:/Users/nikol/AppData/Local/Programs/MiKTeX/tex/latex/trimspaces/trimspaces.sty" 1253169183 1380 971a51b00a14503ddf754cab24c3f209 ""
   "C:/Users/nikol/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/nikol/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "c:/Users/nikol/OneDrive/Desktop/code/sycophancy-evals/write-up/main.tex" 1775175018 5886 a63090ccb424adc2575a2a7a38932d54 ""
-  "main.aux" 1775175019 789 ff9a5b2f30da1baa351e5131bcf4fdac "pdflatex"
+  "c:/Users/nikol/OneDrive/Desktop/code/sycophancy-evals/latex/main.tex" 1775308668 5864 2282aa971a7275b8c2c8d1c49693f96f ""
+  "main.aux" 1775308674 789 ff9a5b2f30da1baa351e5131bcf4fdac "pdflatex"
   "main.bbl" 1775168039 2802 7c2c3eaf73c8d0035ab51c6e685b4244 "bibtex main"
-  "main.out" 1775175019 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1775175018 5886 a63090ccb424adc2575a2a7a38932d54 ""
+  "main.out" 1775308674 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1775308668 5864 2282aa971a7275b8c2c8d1c49693f96f ""
   (generated)
   "main.aux"
   "main.log"

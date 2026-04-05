@@ -1,6 +1,6 @@
-PWD c:\Users\nikol\OneDrive\Desktop\code\sycophancy-evals\write-up
+PWD c:\Users\nikol\OneDrive\Desktop\code\sycophancy-evals\latex
 INPUT C:\Users\nikol\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\nikol\OneDrive\Desktop\code\sycophancy-evals\write-up\main.tex
+INPUT c:\Users\nikol\OneDrive\Desktop\code\sycophancy-evals\latex\main.tex
 OUTPUT main.log
 INPUT C:\Users\nikol\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\nikol\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
