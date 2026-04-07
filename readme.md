@@ -1,4 +1,4 @@
-# Sycophancy x Topic 
+# Let’s Tackle Sycophancy from the Source & Where It Matters Most
 
 ## Contents
 
@@ -17,7 +17,8 @@ Sycophancy has been studied as a capability glitch: a sycophantic model is a mod
 
 ### Sycophancy as a Function of Topic
 
-At this point we're quite confident that sycophancy *comes from* RLHF, but in order to *resolve* sycophancy, we need to identify what triggers it (because, well, sycophancy is not all that models do). Previous research observed that models are less sycophantic on objective than subjective tasks but operationalise this variable by using different topics of conversation (maths tasks and social situations) without testing if the objectivity effect holds across board. Additionally, other research argues that sycophancy in some settings is a feature rather than a bug and should be responded to accordingly. For both these reasons, understanding how sycophancy varies across topics is necessary.
+While sycophancy could be amplified by reward-hacking during RLHF, it is likely learnt from biases in training data. What remains unknown are features that trigger it. Previous research suggests variables such as: statement objectivity, first-person statements, and context domain. Unlike the other variables, context domain has not yet been investigated in isolation, despite it having the most potential to narrow down the search for relevant biases in training data and help map areas of society most exposed to risk from sycophantic behaviour.
+
 
 ## Project Questions
 
