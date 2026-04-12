@@ -6,4 +6,6 @@ inspect_env
 logs
 latex/*
 !latex/main.pdf
+results/data-latex-exports/*
+results/latex-figures/*
 
